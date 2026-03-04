@@ -56,4 +56,4 @@ If this policy changes, the updated version will be posted here.
 
 ## Contact
 
-For questions about this privacy policy, contact: [your email here]
+For questions about this privacy policy, contact: team@seferai.org
